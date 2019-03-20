@@ -1,3 +1,6 @@
 # Lesson-01-Helo-World
-Home task Lesson01
-OK 19
+class HelloWorld { 
+  public static void main(String[] args){ 
+    System.out.println(«Hello World!»); 
+    } 
+  } 
